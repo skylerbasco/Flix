@@ -35,6 +35,3 @@ Flix is an app that allows users to browse movies from [The Movie Database API](
 
 ### App Walkthrough GIF
 <img src="https://user-images.githubusercontent.com/58148243/132628690-0e1393dc-97c2-4df7-a556-a3734cc989e5.gif" width=250> <br>
-
-### Notes
-Towards the end of Unit 1, I encountered a roadblock when attempting to render the "AlamofireImage" files onto the posterView. It turned out that the posterView's outlet (UIImageView) was not connected to the MovieCell. After reconnecting the posterView correctly, my build finally succeeded. Shoutout to the CodePath Tech Fellows who helped me resolve this issue during the process!
